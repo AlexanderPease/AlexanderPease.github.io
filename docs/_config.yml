@@ -25,8 +25,9 @@ email: me@alexanderpease.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ZanderPease
-github_username:  AlexanderPease
+# github_username:  AlexanderPease
 linkedin_username: AlexanderPease
+medium_username: Zander-Pease
 
 # Build settings
 theme: minima

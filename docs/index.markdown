@@ -3,13 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Hi, I'm Alexander...
+title: Hi, I'm Zander...
 ---
 
 
-...but everyone calls me Zander. I’m an entrepreneur, product lead, and angel investor living in New York City. Right now, I'm figuring out my next project.
+...but my full name is Alexander Pease. I’m an entrepreneur, product lead, and angel investor living in New York City. Right now, I'm figuring out my next project.
 
-<h2 id="writing">WRITING</h2>
+<h2 id="writing" class="section-break">WRITING</h2>
 
 ### AI
 - [AI Market Theses](https://medium.com/@zander-pease/ai-market-theses-c1b23231526a) *(2022-10)*
@@ -23,7 +23,9 @@ title: Hi, I'm Alexander...
 - [User vs. Job Stories](https://medium.com/@zander-pease/user-vs-job-stories-4a262bc46468) *(2022-11)*
 
 
-<h2 id="about">ABOUT ME</h2>
+<h2 id="about" class="section-break">ABOUT ME</h2>
+
+I'm currently figuring out my next project. Part of the journey is writing (for the first time in a long time) and angel investing (for the first time).
 
 Most recently I ran Platform at [Hyperscience](hyperscience.com), a Series E company applying AI to enterprise automation. This included running 1/2 our Product Management team as well as stepping in as interim VP of Product Design.
 
@@ -31,6 +33,7 @@ Prior to that, I co-founded [Nomad Health](nomadhealth.com), a marketplace for t
 
 I started my career on the [Union Square Ventures](usv.com) investment team, leading research in blockchain and digital healthcare spaces. 
 
-Right now, I'm figuring out my next project. Part of the journey is writing (for the first time in a long time) and angel investing (for the first time).
+As a lifelong classical pianist, I grew up studying at Tanglewood and the Shanghai Conservatory of Music. I have (briefly) performed at Carnegie Hall. For the past few years I've been studying jazz improvisation. I was a (mediocre) D1 athlete, specifically a long jumper who walked on to the Princeton track team. Now I play soccer and boulder for fun. Most importantly, I'm the proud dog dad of a mini bernedoodle named Lua.
 
-As a lifelong classical pianist, I grew up studying at Tanglewood and the Shanghai Conservatory of Music. I have (briefly) performed at Carnegie Hall. For the past few years I've been studying jazz improvisation. I was a (mediocre) D1 athlete, having walked onto the Princeton track team as a long jumper; now I play soccer and boulder for fun.
+![The only thing on this website that matters](/assets/lua_highline.jpeg)
+*Caption: The only thing on this website that matters*
