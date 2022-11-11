@@ -1,0 +1,15 @@
+---
+---
+/* Override theme defaults */
+$base-font-family: 'Lato', sans-serif;
+$base-font-weight: 300;
+
+/* load _sass/minima.scss */
+@import "minima";
+
+/* Custom CSS here */
+
+h1, h2, h3, .page-link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+}
