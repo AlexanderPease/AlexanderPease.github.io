@@ -13,13 +13,16 @@ title: Hi, I'm Zander...
 
 ### AI
 - [AI Market Theses](https://medium.com/@zander-pease/ai-market-theses-c1b23231526a) *(2022-10)*
-  - [Foundational Models Future](https://medium.com/@zander-pease/ai-market-theses-c1b23231526a#99b2)
+  - [Foundational Models as Cloud Service Offering](https://medium.com/@zander-pease/ai-market-theses-c1b23231526a#99b2)
   - [New Opportunities for Foundational Models](https://medium.com/@zander-pease/ai-market-theses-c1b23231526a#c59d)
   - [ML Ops Long Tail](https://medium.com/@zander-pease/ai-market-theses-c1b23231526a#a3cf)
   - [Recipes (& Pitfalls) for AI-Native Applications](https://medium.com/@zander-pease/ai-market-theses-c1b23231526a#e3bb)
 
 ### Product
 - [Tools for Product Roadmapping at Scale](https://medium.com/@zander-pease/tools-for-product-roadmapping-at-scale-dcd89e6ccc07) *(2022-11)*
+  - [Zone to Win](https://medium.com/@zander-pease/tools-for-product-roadmapping-at-scale-dcd89e6ccc07#7729)
+  - [Strategy Documents](https://medium.com/@zander-pease/tools-for-product-roadmapping-at-scale-dcd89e6ccc07#7129)
+  - [Cone of Uncertainty](https://medium.com/@zander-pease/tools-for-product-roadmapping-at-scale-dcd89e6ccc07#ba3d)
 - [User vs. Job Stories](https://medium.com/@zander-pease/user-vs-job-stories-4a262bc46468) *(2022-11)*
 
 
@@ -33,7 +36,7 @@ Prior to that, I co-founded [Nomad Health](nomadhealth.com), a marketplace for t
 
 I started my career on the [Union Square Ventures](usv.com) investment team, leading research in blockchain and digital healthcare spaces. 
 
-As a lifelong classical pianist, I grew up studying at Tanglewood and the Shanghai Conservatory of Music. I have (briefly) performed at Carnegie Hall. For the past few years I've been studying jazz improvisation. I was a (mediocre) D1 athlete, specifically a long jumper who walked on to the Princeton track team. Now I play soccer and boulder for fun. Most importantly, I'm the proud dog dad of a mini bernedoodle named Lua.
+I read 1/3 sci-fi, 1/3 novels, and 1/3 non-fiction. As a lifelong classical pianist, I grew up studying at Tanglewood and the Shanghai Conservatory of Music. I have (briefly) performed at Carnegie Hall. For the past few years I've been studying jazz improvisation. I was a (mediocre) D1 athlete, specifically a long jumper who walked on to the Princeton track team. Now I play soccer and boulder for fun. Most importantly, I'm the proud dog dad of a mini bernedoodle named Lua.
 
 ![The only thing on this website that matters](/assets/lua_highline.jpeg)
-*Caption: The only thing on this website that matters*
+*Caption: The only thing important thing on this website.*
