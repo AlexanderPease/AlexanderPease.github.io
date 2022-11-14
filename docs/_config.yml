@@ -22,12 +22,15 @@ title: alexanderpease.com
 email: me@alexanderpease.com
 # description: >- # this means to ignore newlines until "baseurl:"
     # Website description
+domain: "alexanderpease.github.io/"
+url: "https://alexanderpease.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/docs/" # the subpath of your site, e.g. /blog
-url: "alexanderpease.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Social icons in footer
 twitter_username: ZanderPease
-# github_username:  AlexanderPease
 linkedin_username: AlexanderPease
-medium_username: Zander-Pease
+# github_username:  AlexanderPease
+# medium_username: Zander-Pease # Not recognized
 
 # Build settings
 theme: minima
