@@ -24,7 +24,7 @@ email: me@alexanderpease.com
     # Website description
 domain: "alexanderpease.github.io/"
 url: "https://alexanderpease.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/docs/" # the subpath of your site, e.g. /blog
+baseurl: "/docs" # the subpath of your site, e.g. /blog
 
 # Social icons in footer
 twitter_username: ZanderPease
