@@ -12,6 +12,7 @@ title: Hi, I'm Zander...
 <h2 id="writing" class="section-break">WRITING</h2>
 
 ### AI
+- [Software Action Models Will Commodotize Today's Platforms](https://medium.com/@zander-pease/software-action-models-will-commoditize-todays-platforms-c690b069dd61) *(2022-11)*
 - [AI Market Theses](https://medium.com/@zander-pease/ai-market-theses-c1b23231526a) *(2022-10)*
   - [Foundational Models as Cloud Service Offering](https://medium.com/@zander-pease/ai-market-theses-c1b23231526a#99b2)
   - [New Opportunities for Foundational Models](https://medium.com/@zander-pease/ai-market-theses-c1b23231526a#c59d)
