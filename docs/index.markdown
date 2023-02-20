@@ -39,5 +39,5 @@ I started my career on the [Union Square Ventures](usv.com) investment team, lea
 
 I read 1/3 sci-fi, 1/3 novels, and 1/3 non-fiction. As a lifelong classical pianist, I grew up studying at Tanglewood and the Shanghai Conservatory of Music. I have (briefly) performed at Carnegie Hall. For the past few years I've been studying jazz improvisation. I was a (mediocre) D1 athlete, specifically a long jumper who walked on to the Princeton track team. Now I play soccer and boulder for fun. Most importantly, I'm the proud dog dad of a mini bernedoodle named Lua.
 
-![The only thing on this website that matters](/assets/lua_highline.jpeg)
-*Caption: The only thing important thing on this website.*
+![The only important thing on this website](/assets/lua_highline.jpeg)
+*Caption: The only important thing on this website.*
